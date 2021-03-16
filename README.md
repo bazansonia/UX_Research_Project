@@ -1,1 +1,1 @@
-# UX_Research_Project
+# UX_Research_Project:ArtExplorerApp
